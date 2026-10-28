@@ -1,5 +1,5 @@
 # Budget Tracker
-Personal budget tracker that calculates whether you're over or under your budget and your savings rate!
-
+A site that shows how much of your monthly income you're keeping. It calculates your net savings and savings rate, and gives feedback on whether you're hitting the 20% goal.
+ 
 ## How to Use
-Open your terminal in the project folder and run *python budget.py*. Enter your budget and follow the rest of the instructions from there.
+Open [Budget Tracker](https://zahararm.github.io/budget-tracker/). Enter your numbers and press "Calculate".
